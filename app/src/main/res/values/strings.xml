@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature App</string>
+    <string name="hint_text">Input a temperature</string>
+    <string name="Celcius">Fahrenheit to Celcius</string>
+    <string name="Fahrenheit">Celcius to Fahrenheit</string>
+    <string name="calc">Calculate</string>
+    <string name="delete">Delete</string>
+</resources>
